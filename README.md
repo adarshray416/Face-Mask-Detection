@@ -98,7 +98,7 @@ Download and save the label_map file which will be used in below steps.
 Goto models/ research/object_detection/configs/tf2
 
 You can use any of the model configuration file. I will be using Efficientdet but there are other more available models in TensorFlow 2 Object Detection model zoo.
-Download the model and store it from TensorFlow 2 Object Detection model zoo
+Download the model and store it from TensorFlow 2 Object Detection model zoo.  (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 
 Open the configuration file and change following details:
 1.	Change Num_classes = 3 as I have used 3 labels.
