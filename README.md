@@ -1,10 +1,10 @@
 # Face-Mask-Detection
 One time Setup:
 
-1.	Download https://github.com/tensorflow/models
+1.	Download https://github.com/tensorflow/models and
  save it 
 
-2. Next open anaconda (I am using anaconda as it provides a one stop place)
+2. Next, open anaconda (I am using anaconda as it provides a one stop place)
 We can use anaconda directly but it is advised to create a virtual environment and use it.
 
 create virtual environment named "object" and then activate it
